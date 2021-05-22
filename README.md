@@ -9,3 +9,6 @@ This app demonstrates multiple fragments in an activity, a shared ViewModel acro
 data binding, LiveData, and the Jetpack Navigation component.
 
 
+## Screenshots
+
+![Screenshot1](screenshots/1.PNG)
