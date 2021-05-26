@@ -12,3 +12,7 @@ data binding, LiveData, and the Jetpack Navigation component.
 ## Screenshots
 
 ![Screenshot1](screenshots/1.PNG)
+
+![Screenshot1](screenshots/2.gif)
+
+![Screenshot1](screenshots/3.png)
